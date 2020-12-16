@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Student/Downloads/spring-framework-5.2.8.RELEASE/libs/spring-beans-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Student/Downloads/spring-framework-5.2.8.RELEASE/libs/spring-context-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Student/Downloads/spring-framework-5.2.8.RELEASE/libs/spring-core-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Student/Downloads/spring-framework-5.2.8.RELEASE/libs/spring-expression-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Student/Downloads/spring-framework-5.2.8.RELEASE/libs/spring-jdbc-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Student/Downloads/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Student/Downloads/spring-5.2.9.RELEASE-dist/spring-framework-5.2.9.RELEASE/libs/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Student/Downloads/commons-dbcp2-2.8.0/commons-dbcp2-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Student/Downloads/c3p0-0.9.5.5/lib/mchange-commons-java-0.2.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Student/Downloads/commons-pool2-2.9.0/commons-pool2-2.9.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
